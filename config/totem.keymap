@@ -111,7 +111,7 @@ label= "BASE"                              ;
             symbols {
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
-            &kp esc    &kp hash    &kp pipe   &kp star   &kp amps      &kp minus  &kp lt      &kp gt   &kp equal    &kp plus
+            &kp ESC    &kp hash    &kp pipe   &kp star   &kp amps      &kp minus  &kp lt      &kp gt   &kp equal    &kp plus
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
            &kp under   &kp grave  &kp dqt   &kp sqt      &kp excl        &kp lbkt  &kp lpar    &kp rpar   &kp rbkt   &kp semi
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤

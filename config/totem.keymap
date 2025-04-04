@@ -108,20 +108,19 @@ label= "BASE"                              ;
 
 // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
-            symbols {
+        symbols {
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
-            &kp ESC    &kp hash    &kp pipe   &kp star   &kp amps      &kp minus  &kp lt      &kp gt   &kp equal    &kp plus
+            &kp ESC    &kp HASH    &kp PIPE   &kp STAR   &kp AMPS      &kp MINUS  &kp LT      &kp GT   &kp EQUAL    &kp PLUS
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-           &kp under   &kp grave  &kp dqt   &kp sqt      &kp excl        &kp lbkt  &kp lpar    &kp rpar   &kp rbkt   &kp semi
+           &kp UNDER   &kp GRAVE  &kp DQT   &kp SQT      &kp EXCL        &kp LBKT  &kp LPAR    &kp RPAR   &kp RBKT   &kp SEMI
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-     &trans    &kp backslash &kp prcnt  &kp tilde    &none   &kp caret        &kp dllr  &kp lbrc  &kp rbrc    &none      &kp at  &trans
+    &trans    &kp BACKSLASH &kp PRCNT  &kp TILDE    &none   &kp CARET        &kp DLLR  &kp LBRC  &kp RBRC    &none      &kp AT  &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                         &trans     &trans  &trans      &trans &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
-
 
 // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 

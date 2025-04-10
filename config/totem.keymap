@@ -162,7 +162,7 @@ label= "BASE"                              ;
             misc {
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
-           &none   &trans     &trans     &trans   &bt BT_SEL 0       &kp C_VOL_DN  &kp C_VOL_UP     &C_PREV     &C_NEXT     &kp C_PP
+           &none   &trans     &trans     &trans   &bt BT_SEL 0       &kp C_VOL_DN  &kp C_VOL_UP     &kp C_PREV     &kp C_NEXT     &kp C_PP
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
           &none  &trans     &trans     &trans    &bt BT_SEL 1           &none    &none    &none   &none     &none
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
